@@ -10,8 +10,8 @@
 # Files in this Repository:
 There are two folders in this repository: "Data" and "Code":
 
-<strong>Data Folder:</strong>
-This folder includes three files:
+### Data Folder:
+This folder includes three different datasets which are all csv files:
 <ol align="justify">
 <li>houses_to_rent.csv: This file is the original dataset of the project.</li>
 <li>rental_houses_Tohid.csv: I have prepared the dataset in two versions. This is the version No.1; To rebuild this version, one can run the Jupyter Notebook file of: "Preparation_Rental_Cost".</li>

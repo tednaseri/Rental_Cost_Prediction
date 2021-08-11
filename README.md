@@ -1,4 +1,5 @@
-# Home Rental Cost Prediction
+<h1 align="justify">Home Rental Cost Prediction</h1>
+# Overview:
 <ul align="justify">
 <li>It is a supervised machine learning project based on Kaggle Brazil Houses Dataset which is made of 10692 records and 14 features. Each row represents one home.</li>
 <li>The goal is predicting rental cost of homes. Since the target feature is a numerical variable, it is a regression machine learning project where I minimized RMSE as the business metric.</li>

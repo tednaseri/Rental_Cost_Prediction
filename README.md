@@ -10,7 +10,7 @@
 # Files in this Repository:
 There are two folders in this repository: "Data" and "Code":
 
-## Data Folder:
+<strong>Data Folder:</strong>
 This folder includes three files:
 <ol align="justify">
 <li>houses_to_rent.csv: This file is the original dataset of the project.</li>

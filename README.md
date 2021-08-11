@@ -21,7 +21,7 @@ This folder includes three different datasets which are all csv files:
 ## Code Folder:
 This folder includes three files:
 <ol align="justify">
-<li>Utils_Car_Insurance: This file includes common functions for actions like data manipulation or data visualization. These functions will be called through other files.</li>
+<li>Utils_Car_Insurance: This file includes common functions for tasks like data manipulation, data visualization, etc.</li>
 <li>Preparation_Car_Insurance: This file includes all the preparation steps for this dataset.</li>
 <li>EDA_Car_Insurance: This file includes applied steps for the Data Explanatory Analysis.</li>
 <li>Modeling_Car_Insurance: This file includes machine learning content of the project.</li>

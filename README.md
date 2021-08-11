@@ -14,10 +14,9 @@ There are two folders in this repository: "Data" and "Code":
 This folder includes three different datasets which are all csv files:
 <ol align="justify">
 <li>houses_to_rent.csv: This file is the original dataset of the project.</li>
-<li>rental_houses_Tohid.csv: I have prepared the dataset in two versions. This is the version No.1; To rebuild this version, one can run the Jupyter Notebook file of: "Preparation_Rental_Cost".</li>
+<li>rental_houses_Tohid.csv: This version of the dataset is obtained after data preparation.</li>
 <li>rental_houses_Tohid_Final.csv: This is the final version of the dataset which is ready for applying machine learning algorithms.</li>
 </ol>
-
 
 ## Code Folder:
 This folder includes three files:

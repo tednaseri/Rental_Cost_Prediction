@@ -10,13 +10,18 @@
 # Files in this Repository:
 There are two folders in this repository: "Data" and "Code":
 
-<ol align="justify">Data Folder:
+## Data Folder:
+This folder includes three files:
+<ol align="justify">
 <li>houses_to_rent.csv: This file is the original dataset of the project.</li>
 <li>rental_houses_Tohid.csv: I have prepared the dataset in two versions. This is the version No.1; To rebuild this version, one can run the Jupyter Notebook file of: "Preparation_Rental_Cost".</li>
 <li>rental_houses_Tohid_Final.csv: This is the final version of the dataset which is ready for applying machine learning algorithms.</li>
 </ol>
 
-<ol align="justify"> Code Floder:
+
+## Code Folder:
+This folder includes three files:
+<ol align="justify">
 <li>Utils_Car_Insurance: This file includes common functions for actions like data manipulation or data visualization. These functions will be called through other files.</li>
 <li>Preparation_Car_Insurance: This file includes all the preparation steps for this dataset.</li>
 <li>EDA_Car_Insurance: This file includes applied steps for the Data Explanatory Analysis.</li>

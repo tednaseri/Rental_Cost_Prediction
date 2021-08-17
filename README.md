@@ -31,4 +31,4 @@ This folder includes three files:
 To run this project after downloading the dataset, the provided files in Code folder should be run with the above order.
 
 # More Details:
-More details is provided in my personal website at http://tednaseri.pythonanywhere.com/rental_cost
+<p>More details is provided in my personal website at https://www.tednaseri.com/rental_cost

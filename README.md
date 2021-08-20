@@ -1,10 +1,10 @@
 # Home Rental Cost Prediction
 <ul align="justify">
-<li>It is a supervised machine learning project based on Kaggle Brazil Houses Dataset which is made of 10692 records and 14 features. Each row represents one home.</li>
-<li>The goal is predicting rental cost of homes. Since the target feature is a numerical variable, it is a regression machine learning project where I minimized RMSE as the business metric.</li>
+<li>It is a supervised machine learning project based on the Kaggle Brazil Houses Dataset which is made of 10692 records and 14 features. Each row represents one home.</li>
+<li>The goal is predicting the rental cost of homes. Since the target feature is a numerical variable, it is a regression machine learning project where I minimized RMSE as the business metric.</li>
 <li>This application includes data cleaning, data preparation, explanatory data analysis, and machine learning modeling.</li>
-<li>For the machine learning purposes, linear regression, random forest, XGBoost, and LightGBM models along with hyperparameter tuning are implemented.</li>
-<li>By optimizing the XGBoost model as the best model, we could improve the business metric more than 9%.</li>
+<li>For machine learning purposes, linear regression, random forest, XGBoost, and LightGBM models along with hyperparameter tuning are implemented.</li>
+<li>By optimizing the XGBoost model as the best model, we could improve the business metric by more than 9%.</li>
 </ul>
   
 # Files in this Repository:
@@ -28,7 +28,7 @@ This folder includes three files:
 </ol>
 
 # How to run the project?
-To run this project after downloading the dataset, the provided files in Code folder should be run with the above order.
+To run this project after downloading the dataset, the provided files in the Code folder should be run with the above order.
 
 # More Details:
-<p>More details is provided in my personal website at https://www.tednaseri.com/rental_cost
+<p>More details are provided on my personal website at https://www.tednaseri.com/rental_cost
